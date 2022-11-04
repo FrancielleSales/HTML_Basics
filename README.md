@@ -1,2 +1,29 @@
-# HTML_Basics
-Repositório com conteúdo de HTML para relembrar o que for necessário
+# Links úteis
+
+> Repositório com materiais úteis para relembrar assuntos estudados
+
+## HTML
+
+- <a href="https://www.w3schools.com/tags/ref_attributes.asp">All HTML attributes - W3 schools</a>
+- <a href="https://www.w3schools.com/tags/ref_eventattributes.asp">All HTML event attributes - W3 schools</a>
+- <a href="https://www.w3schools.com/tags/ref_standardattributes.asp">All HTML global attributes - W3 schools</a>
+- <a href="https://www.w3schools.com/tags/default.asp">All HTML tags - W3 schools</a>
+- <a href="https://www.w3schools.com/html/html_examples.asp">HTML Examples - W3 schools</a>
+
+## Color palettes
+
+- <a href="https://color.adobe.com/pt/create/color-wheel">Adobe color</a>
+- <a href="https://www.w3schools.com/colors/colors_picker.asp">Color picker - W3 schools</a>
+- <a href="https://www.colourlovers.com/">Colour lovers</a>
+- <a href="https://coolors.co/">Coolors</a>
+- <a href="https://www.shutterstock.com/pt/colors">Shutterstock</a>
+
+## Favicon
+
+- <a href="https://www.favicon.cc/">Favicon generator</a>
+
+## HTTP
+
+- <a href="https://www.w3schools.com/tags/ref_httpmethods.asp">HTTP methods - W3 Schools</a>
+- <a href="https://www.w3schools.com/tags/ref_httpmessages.asp">HTTP status methods - W3 Schools</a>
+- <a href="https://http.cat/">HTTP status methods with cats - HTTP Cats</a>
