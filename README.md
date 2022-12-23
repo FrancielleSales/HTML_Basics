@@ -18,6 +18,14 @@
 - <a href="https://coolors.co/">Coolors</a>
 - <a href="https://www.shutterstock.com/pt/colors">Shutterstock</a>
 
+## CSS
+
+- <a href="https://www.w3schools.com/cssref/css_animatable.php">CSS animatable - W3 schools</a>
+- <a href="https://www.w3schools.com/cssref/css_functions.php">CSS functions - W3 schools</a>
+- <a href="https://www.w3schools.com/cssref/index.php">CSS properties - W3 schools</a>
+- <a href="https://www.w3schools.com/cssref/css_selectors.php">CSS selectors - W3 schools</a>
+- <a href="https://www.w3schools.com/cssref/css_default_values.php">CSS default values - W3 schools</a>
+
 ## Favicon
 
 - <a href="https://www.favicon.cc/">Favicon generator</a>
@@ -27,3 +35,7 @@
 - <a href="https://www.w3schools.com/tags/ref_httpmethods.asp">HTTP methods - W3 Schools</a>
 - <a href="https://www.w3schools.com/tags/ref_httpmessages.asp">HTTP status methods - W3 Schools</a>
 - <a href="https://http.cat/">HTTP status methods with cats - HTTP Cats</a>
+
+## Icons
+
+- <a href="https://fontawesome.com/icons/">Font awesome</a>
