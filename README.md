@@ -2,13 +2,10 @@
 
 > Repositório com materiais úteis para relembrar assuntos estudados
 
-## HTML
+## BootstrapVue
 
-- <a href="https://www.w3schools.com/tags/ref_attributes.asp">All HTML attributes - W3 schools</a>
-- <a href="https://www.w3schools.com/tags/ref_eventattributes.asp">All HTML event attributes - W3 schools</a>
-- <a href="https://www.w3schools.com/tags/ref_standardattributes.asp">All HTML global attributes - W3 schools</a>
-- <a href="https://www.w3schools.com/tags/default.asp">All HTML tags - W3 schools</a>
-- <a href="https://www.w3schools.com/html/html_examples.asp">HTML Examples - W3 schools</a>
+- <a href="https://bootstrap-vue.org/">Documentation</a>
+- <a href="https://bootstrap-vue.org/docs/icons">Icons</a>
 
 ## Color palettes
 
@@ -29,6 +26,14 @@
 ## Favicon
 
 - <a href="https://www.favicon.cc/">Favicon generator</a>
+
+## HTML
+
+- <a href="https://www.w3schools.com/tags/ref_attributes.asp">All HTML attributes - W3 schools</a>
+- <a href="https://www.w3schools.com/tags/ref_eventattributes.asp">All HTML event attributes - W3 schools</a>
+- <a href="https://www.w3schools.com/tags/ref_standardattributes.asp">All HTML global attributes - W3 schools</a>
+- <a href="https://www.w3schools.com/tags/default.asp">All HTML tags - W3 schools</a>
+- <a href="https://www.w3schools.com/html/html_examples.asp">HTML Examples - W3 schools</a>
 
 ## HTTP
 
